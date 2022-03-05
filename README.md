@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sachin!
+- 👋 Hi, I’m Sachin
 - 👀 I’m interested in Web3.0
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: heysachinkry@gmail.com
 
