@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sachin
-- 👀 I’m interested in Web3.0
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me: heysachinkry@gmail.com
+## Hi there 👋, this is Sachin.
+
+- exploring Defi & NFTs
+- learning blockchain development
+- looking to collaborate on web3 projects
+- How to reach me: heysachinkry@gmail.com
 
 <!---
 Sachinkry/Sachinkry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
