@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Sachin.
 
-- exploring Defi & NFTs
-- learning blockchain development
-- looking to collaborate on web3 projects
-- How to reach me: hisachinkry@gmail.com or DM me on Twitter
+• exploring Defi & blockchain. 
+• learning blockchain development
+• looking to collaborate on building dapps.
+• How to reach me: heysachinkry@gmail.com or DM me on Twitter
