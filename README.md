@@ -1,6 +1,5 @@
 ## Hi there 👋, this is Sachin.
 
-- exploring Defi & blockchain. 
-- learning blockchain development
-- looking to collaborate on building dapps.
+- exploring AI & LLMs
+- My tech stack: Nextjs + TailwindCSS; full stack
 - How to reach me: heysachinkry@gmail.com or DM me on Twitter
