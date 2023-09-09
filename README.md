@@ -1,5 +1,5 @@
-## Hi there 👋, this is Sachin.
+# Hi there 👋, this is Sachin.
 
-- exploring AI & LLMs
-- My tech stack: Nextjs + TailwindCSS; full stack
-- How to reach me: heysachinky@gmail.com or DM me on Twitter
+- Exploring AI & LLMs
+- My Tech Stack: Nextjs + TailwindCSS; Full Stack
+- How to reach me: heysachinky@gmail.com or DM me on [Twitter](https://twitter.com/SachinKry)
