@@ -24,7 +24,7 @@
 ### [Reading Mood](https://github.com/Sachinkry/readingmood)
 > A fun project that curates songs that vibe with your favorite books using gpt and youtube api to fetch songs.
 
-### [Discord-bots](https://github.com/Sachinkry/Discord-bots)
-> A bot that can send test tokens to your web3 accounts
+### [Discord-bot](https://github.com/Sachinkry/Discord-bots/tree/main/bot-1)
+> A LW-3 Faucet Bot that can send test tokens to your test accounts
 
 
