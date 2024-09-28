@@ -7,7 +7,7 @@
 ## Recent Projects
 
 ### [Spotify Clone](https://github.com/Sachinkry/spotify-clone)
-> A clone of the popular music streaming service Spotify, built with TypeScript.
+> A clone of the music streaming service Spotify, with stripe subscription and song uploading.
 
 ### [Finance Management](https://github.com/Sachinkry/Finance-Management)
 > An application designed to manage personal finances effectively using TypeScript.
