@@ -18,6 +18,5 @@ Hi there, I am Sachin. I have a keen interest in AI and Large Language Models (L
 - [**Discord Bot:**](https://github.com/Sachinkry/Discord-bots/tree/main/bot-1) A LW-3 Faucet Bot that can send test tokens to your test accounts
 
 ## 📫 Contact Me  
-- Twitter: [`SachinKry`](https://twitter.com/SachinKry)
-- Email: `heysachinky@gmail.com`
+- Email: `heysachinkry@gmail.com`
 
